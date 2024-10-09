@@ -1,2 +1,4 @@
 # X_R-Y_TOOL
 POWER BY : X_RIDA 
+
+TELEGRAM CHANNEL : https://t.me/xrida010001
