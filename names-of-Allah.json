@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1,
+    "arabic": "الرَّحْمَن",
+    "english": "Ar-Rahman",
+    "french": "Le Tout Miséricordieux",
+    "explanation": "الذي يرحم جميع مخلوقاته ويعطيهم من نعمه."
+  },
+  {
+    "id": 2,
+    "arabic": "الرَّحِيم",
+    "english": "Ar-Raheem",
+    "french": "Le Très Miséricordieux",
+    "explanation": "الذي يختص المؤمنين برحمته في الدنيا والآخرة."
+  },
+  {
+    "id": 3,
+    "arabic": "المَلِك",
+    "english": "Al-Malik",
+    "french": "Le Souverain",
+    "explanation": "الملك الذي لا يزول ملكه أبداً."
+  },
+  {
+    "id": 4,
+    "arabic": "القُدُّوس",
+    "english": "Al-Quddus",
+    "french": "Le Pur",
+    "explanation": "المطهر والمنزه عن كل نقص."
+  },
+  {
+    "id": 5,
+    "arabic": "السَّلَام",
+    "english": "As-Salam",
+    "french": "La Paix",
+    "explanation": "الذي سلم من كل عيب ونقص."
+  },
+  {
+    "id": 6,
+    "arabic": "المُؤْمِن",
+    "english": "Al-Mu'min",
+    "french": "Le Fidèle",
+    "explanation": "الذي يمنح الأمان ويصدق عباده."
+  },
+  {
+    "id": 7,
+    "arabic": "المُهَيْمِن",
+    "english": "Al-Muhaymin",
+    "french": "Le Surveillant",
+    "explanation": "الذي يراقب ويحفظ كل شيء."
+  },
+  {
+    "id": 8,
+    "arabic": "العَزِيز",
+    "english": "Al-Aziz",
+    "french": "Le Tout-Puissant",
+    "explanation": "الذي لا يغلبه شيء."
+  },
+  {
+    "id": 9,
+    "arabic": "الجَبَّار",
+    "english": "Al-Jabbar",
+    "french": "L'Irrésistible",
+    "explanation": "الذي يصلح كل شيء ويجبر الكسور."
+  },
+  {
+    "id": 10,
+    "arabic": "المُتَكَبِّر",
+    "english": "Al-Mutakabbir",
+    "french": "L'Inaccessible",
+    "explanation": "الذي يتعالى عن صفات المخلوقين."
+  },
+  {
+    "id": 11,
+    "arabic": "الخَالِق",
+    "english": "Al-Khaliq",
+    "french": "Le Créateur",
+    "explanation": "الذي يخلق من العدم."
+  },
+  {
+    "id": 12,
+    "arabic": "البَارِئ",
+    "english": "Al-Bari'",
+    "french": "L'Initiateur",
+    "explanation": "الذي برأ الخلق وصورهم في أحسن صورة."
+  },
+  {
+    "id": 13,
+    "arabic": "المُصَوِّر",
+    "english": "Al-Musawwir",
+    "french": "Le Formateur",
+    "explanation": "الذي صور الخلق وأبدع في خلقه."
+  },
+  {
+    "id": 14,
+    "arabic": "الغَفَّار",
+    "english": "Al-Ghaffar",
+    "french": "Le Tout-Pardonnant",
+    "explanation": "الذي يغفر الذنوب ويستر العيوب."
+  },
+  {
+    "id": 15,
+    "arabic": "القَهَّار",
+    "english": "Al-Qahhar",
+    "french": "Le Dominateur Suprême",
+    "explanation": "الذي يقهر كل جبار وظالم."
+  },
+  {
+    "id": 16,
+    "arabic": "الوَهَّاب",
+    "english": "Al-Wahhab",
+    "french": "Le Très Généreux",
+    "explanation": "الذي يهب العطايا والهبات لعباده."
+  },
+  {
+    "id": 17,
+    "arabic": "الرَّزَّاق",
+    "english": "Ar-Razzaq",
+    "french": "Le Grand Pourvoyeur",
+    "explanation": "الذي يرزق الخلق ويعطيهم من فضله."
+  },
+  {
+    "id": 18,
+    "arabic": "الفَتَّاح",
+    "english": "Al-Fattah",
+    "french": "L'Opérateur",
+    "explanation": "الذي يفتح أبواب الرحمة ويحل المشاكل."
+  },
+  {
+    "id": 19,
+    "arabic": "العَلِيم",
+    "english": "Al-'Alim",
+    "french": "Le Savant",
+    "explanation": "الذي يعلم كل شيء ظاهراً وباطناً."
+  },
+  {
+    "id": 20,
+    "arabic": "القَابِض",
+    "english": "Al-Qabid",
+    "french": "Celui qui retient",
+    "explanation": "الذي يقبض الرزق أو يقبض الأرواح."
+  },
+  {
+    "id": 21,
+    "arabic": "البَاسِط",
+    "english": "Al-Basit",
+    "french": "Celui qui étend",
+    "explanation": "الذي يبسط الرزق ويوسعه لعباده."
+  },
+  {
+    "id": 22,
+    "arabic": "الخَافِض",
+    "english": "Al-Khafid",
+    "french": "Celui qui abaisse",
+    "explanation": "الذي يخفض الكافرين والظالمين."
+  },
+  {
+    "id": 23,
+    "arabic": "الرَّافِع",
+    "english": "Ar-Rafi'",
+    "french": "Celui qui élève",
+    "explanation": "الذي يرفع المؤمنين ويعلي شأنهم."
+  },
+  {
+    "id": 24,
+    "arabic": "المُعِزّ",
+    "english": "Al-Mu'izz",
+    "french": "Celui qui honore",
+    "explanation": "الذي يعز من يشاء من عباده."
+  },
+  {
+    "id": 25,
+    "arabic": "المُذِلّ",
+    "english": "Al-Mudhill",
+    "french": "Celui qui humilie",
+    "explanation": "الذي يذل من يشاء من عباده."
+  },
+  {
+    "id": 26,
+    "arabic": "السَّمِيع",
+    "english": "As-Sami'",
+    "french": "L'Audient",
+    "explanation": "الذي يسمع كل شيء ويعلم كل خفي."
+  },
+  {
+    "id": 27,
+    "arabic": "البَصِير",
+    "english": "Al-Basir",
+    "french": "Le Clairvoyant",
+    "explanation": "الذي يرى كل شيء ويدرك كل ما يحدث."
+  },
+  {
+    "id": 28,
+    "arabic": "الحَكَم",
+    "english": "Al-Hakam",
+    "french": "Le Juge",
+    "explanation": "الذي يحكم بين عباده بالحق والعدل."
+  },
+  {
+    "id": 29,
+    "arabic": "العَدْل",
+    "english": "Al-Adl",
+    "french": "Le Juste",
+    "explanation": "الذي لا يظلم أحداً ويعدل في قضائه."
+  },
+  {
+    "id": 30,
+    "arabic": "اللَّطِيف",
+    "english": "Al-Latif",
+    "french": "Le Très Doux",
+    "explanation": "الذي يلطف بعباده ويسوق لهم الخير برفق."
+  }, 
+  {
+    "id": 31,
+    "arabic": "الخَبِير",
+    "english": "Al-Khabir",
+    "french": "Le Très Informé",
+    "explanation": "الذي لا يخفى عليه شيء من أعمال خلقه."
+  },
+  {
+    "id": 32,
+    "arabic": "الحَلِيم",
+    "english": "Al-Halim",
+    "french": "Le Très Doux",
+    "explanation": "الذي لا يعجل بالعقوبة على العصاة."
+  },
+  {
+    "id": 33,
+    "arabic": "العَظِيم",
+    "english": "Al-Azim",
+    "french": "L'Immense",
+    "explanation": "الذي لا يدرك كنهه العقل البشري لعظمته."
+  },
+  {
+    "id": 34,
+    "arabic": "الغَفُور",
+    "english": "Al-Ghafur",
+    "french": "Le Tout-Pardonnant",
+    "explanation": "الذي يغفر الذنوب جميعها."
+  },
+  {
+    "id": 35,
+    "arabic": "الشَّكُور",
+    "english": "Ash-Shakur",
+    "french": "Le Très Reconnaissant",
+    "explanation": "الذي يثيب العبد على العمل القليل."
+  },
+  {
+    "id": 36,
+    "arabic": "العَلِيّ",
+    "english": "Al-Aliyy",
+    "french": "Le Très Haut",
+    "explanation": "الذي له علو الذات والقدر والقهر."
+  },
+  {
+    "id": 37,
+    "arabic": "الكَبِير",
+    "english": "Al-Kabir",
+    "french": "Le Très Grand",
+    "explanation": "الذي هو أعظم من كل شيء."
+  },
+  {
+    "id": 38,
+    "arabic": "الحَفِيظ",
+    "english": "Al-Hafiz",
+    "french": "Le Gardien",
+    "explanation": "الذي يحفظ عباده من الضرر والمكروه."
+  },
+  {
+    "id": 39,
+    "arabic": "المُقيِت",
+    "english": "Al-Muqit",
+    "french": "Le Nourricier",
+    "explanation": "الذي يرزق الخلق ويقيتهم بما يحتاجون."
+  },
+  {
+    "id": 40,
+    "arabic": "الحَسِيب",
+    "english": "Al-Hasib",
+    "french": "Celui qui tient compte de tout",
+    "explanation": "الذي يحاسب عباده على أعمالهم."
+  },
+  {
+    "id": 41,
+    "arabic": "الجَلِيل",
+    "english": "Al-Jalil",
+    "french": "Le Majestueux",
+    "explanation": "الذي له صفات الجلال والعظمة."
+  },
+  {
+    "id": 42,
+    "arabic": "الكَرِيم",
+    "english": "Al-Karim",
+    "french": "Le Très Généreux",
+    "explanation": "الذي يعطي بلا حساب."
+  },
+  {
+    "id": 43,
+    "arabic": "الرَّقِيب",
+    "english": "Ar-Raqib",
+    "french": "Le Vigilant",
+    "explanation": "الذي يراقب كل شيء ويعلم كل ما يحدث."
+  },
+  {
+    "id": 44,
+    "arabic": "المُجِيب",
+    "english": "Al-Mujib",
+    "french": "Celui qui exauce",
+    "explanation": "الذي يجيب دعاء من يدعوه."
+  },
+  {
+    "id": 45,
+    "arabic": "الوَاسِع",
+    "english": "Al-Wasi'",
+    "french": "L'Ample",
+    "explanation": "الذي وسعت رحمته كل شيء."
+  },
+  {
+    "id": 46,
+    "arabic": "الحَكِيم",
+    "english": "Al-Hakim",
+    "french": "Le Sage",
+    "explanation": "الذي يضع الأمور في مواضعها بحكمة."
+  },
+  {
+    "id": 47,
+    "arabic": "الوَدُود",
+    "english": "Al-Wadud",
+    "french": "Le Tout Affectueux",
+    "explanation": "الذي يحب عباده ويريد لهم الخير."
+  },
+  {
+    "id": 48,
+    "arabic": "المَجِيد",
+    "english": "Al-Majid",
+    "french": "Le Très Glorieux",
+    "explanation": "الذي له المجد والكرم والشرف."
+  },
+  {
+    "id": 49,
+    "arabic": "البَاعِث",
+    "english": "Al-Ba'ith",
+    "french": "Le Ressusciteur",
+    "explanation": "الذي يبعث الخلق يوم القيامة."
+  },
+  {
+    "id": 50,
+    "arabic": "الشَّهِيد",
+    "english": "Ash-Shahid",
+    "french": "Le Témoin",
+    "explanation": "الذي لا يغيب عن علمه شيء."
+  },
+  {
+    "id": 51,
+    "arabic": "الحَق",
+    "english": "Al-Haqq",
+    "french": "La Vérité",
+    "explanation": "الذي هو حق في وجوده ووعده."
+  },
+  {
+    "id": 52,
+    "arabic": "الوَكِيل",
+    "english": "Al-Wakil",
+    "french": "Le Tuteur",
+    "explanation": "الذي يعتمد عليه الخلق في أمورهم."
+  },
+  {
+    "id": 53,
+    "arabic": "القَوِيّ",
+    "english": "Al-Qawiyy",
+    "french": "Le Très Fort",
+    "explanation": "الذي لا يعجزه شيء في الأرض ولا في السماء."
+  },
+  {
+    "id": 54,
+    "arabic": "المَتِين",
+    "english": "Al-Matin",
+    "french": "Le Très Ferme",
+    "explanation": "الذي لا يتأثر ولا يهتز."
+  },
+  {
+    "id": 55,
+    "arabic": "الوَلِيّ",
+    "english": "Al-Waliyy",
+    "french": "Le Protecteur",
+    "explanation": "الذي يتولى شؤون عباده المؤمنين."
+  },
+  {
+    "id": 56,
+    "arabic": "الحَمِيد",
+    "english": "Al-Hamid",
+    "french": "Le Digne de louange",
+    "explanation": "الذي يستحق الحمد والثناء."
+  },
+  {
+    "id": 57,
+    "arabic": "المُحْصِي",
+    "english": "Al-Muhsi",
+    "french": "Celui qui connaît par cœur",
+    "explanation": "الذي أحصى كل شيء علماً وعدداً."
+  },
+  {
+    "id": 58,
+    "arabic": "المُبْدِئ",
+    "english": "Al-Mubdi'",
+    "french": "Celui qui commence",
+    "explanation": "الذي بدأ الخلق من العدم."
+  },
+  {
+    "id": 59,
+    "arabic": "المُعِيد",
+    "english": "Al-Mu'id",
+    "french": "Celui qui fait revenir",
+    "explanation": "الذي يعيد الخلق بعد الفناء."
+  },
+  {
+    "id": 60,
+    "arabic": "المُحْيِي",
+    "english": "Al-Muhyi",
+    "french": "Celui qui donne la vie",
+    "explanation": "الذي يحيي الخلق من العدم."
+  }, 
+  {
+    "id": 61,
+    "arabic": "المُمِيت",
+    "english": "Al-Mumit",
+    "french": "Celui qui donne la mort",
+    "explanation": "الذي يميت الخلائق في وقتها المعلوم."
+  },
+  {
+    "id": 62,
+    "arabic": "الحَي",
+    "english": "Al-Hayy",
+    "french": "Le Vivant",
+    "explanation": "الذي له الحياة الكاملة الدائمة."
+  },
+  {
+    "id": 63,
+    "arabic": "القَيُّوم",
+    "english": "Al-Qayyum",
+    "french": "L'Immuable",
+    "explanation": "الذي يقوم بنفسه ويقوم بتدبير أمور خلقه."
+  },
+  {
+    "id": 64,
+    "arabic": "الوَاجِد",
+    "english": "Al-Wajid",
+    "french": "Le Percevant",
+    "explanation": "الذي لا يعوزه شيء ويجد ما يريد."
+  },
+  {
+    "id": 65,
+    "arabic": "المَاجِد",
+    "english": "Al-Majid",
+    "french": "Le Noble",
+    "explanation": "الذي له المجد والشرف والعظمة."
+  },
+  {
+    "id": 66,
+    "arabic": "الوَاحِد",
+    "english": "Al-Wahid",
+    "french": "L'Unique",
+    "explanation": "الذي لا شريك له في ذاته ولا في صفاته."
+  },
+  {
+    "id": 67,
+    "arabic": "الأَحَد",
+    "english": "Al-Ahad",
+    "french": "L'Un",
+    "explanation": "الذي لا ثاني له ولا مثيل له."
+  },
+  {
+    "id": 68,
+    "arabic": "الصَّمَد",
+    "english": "As-Samad",
+    "french": "L'Impénétrable",
+    "explanation": "الذي تصمد إليه الخلائق في حاجاتها."
+  },
+  {
+    "id": 69,
+    "arabic": "القَادِر",
+    "english": "Al-Qadir",
+    "french": "Le Tout-Puissant",
+    "explanation": "الذي يقدر على كل شيء ولا يعجزه شيء."
+  },
+  {
+    "id": 70,
+    "arabic": "المُقْتَدِر",
+    "english": "Al-Muqtadir",
+    "french": "Le Tout-Puissant",
+    "explanation": "الذي يقهر ويغلب كل شيء بقوته."
+  },
+  {
+    "id": 71,
+    "arabic": "المُقَدِّم",
+    "english": "Al-Muqaddim",
+    "french": "Celui qui précède",
+    "explanation": "الذي يقدم ما يشاء من أمور عباده."
+  },
+  {
+    "id": 72,
+    "arabic": "المُؤَخِّر",
+    "english": "Al-Mu'akhkhir",
+    "french": "Celui qui retarde",
+    "explanation": "الذي يؤخر ما يشاء ويضعه في موضعه."
+  },
+  {
+    "id": 73,
+    "arabic": "الأَوَّل",
+    "english": "Al-Awwal",
+    "french": "Le Premier",
+    "explanation": "الذي ليس قبله شيء."
+  },
+  {
+    "id": 74,
+    "arabic": "الآخِر",
+    "english": "Al-Akhir",
+    "french": "Le Dernier",
+    "explanation": "الذي ليس بعده شيء."
+  },
+  {
+    "id": 75,
+    "arabic": "الظَّاهِر",
+    "english": "Az-Zahir",
+    "french": "Le Manifeste",
+    "explanation": "الذي ظهر كل شيء بتجليه."
+  },
+  {
+    "id": 76,
+    "arabic": "البَاطِن",
+    "english": "Al-Batin",
+    "french": "Le Caché",
+    "explanation": "الذي بطن عن الإدراك فلا تراه العيون."
+  },
+  {
+    "id": 77,
+    "arabic": "الوَالِي",
+    "english": "Al-Wali",
+    "french": "Le Gouverneur",
+    "explanation": "الذي يتولى أمور الخلائق."
+  },
+  {
+    "id": 78,
+    "arabic": "المُتَعَالِي",
+    "english": "Al-Muta'ali",
+    "french": "Le Sublime",
+    "explanation": "الذي تنزه عن كل نقص وعيب."
+  },
+  {
+    "id": 79,
+    "arabic": "البَرّ",
+    "english": "Al-Barr",
+    "french": "Le Bienfaiteur",
+    "explanation": "الذي يحسن إلى خلقه ويعطيهم فوق ما يستحقون."
+  },
+  {
+    "id": 80,
+    "arabic": "التَّوَّاب",
+    "english": "At-Tawwab",
+    "french": "Celui qui accepte le repentir",
+    "explanation": "الذي يقبل التوبة عن عباده ويغفر لهم."
+  },
+  {
+    "id": 81,
+    "arabic": "المُنْتَقِم",
+    "english": "Al-Muntaqim",
+    "french": "Le Vengeur",
+    "explanation": "الذي ينتقم من أعدائه وأعداء دينه."
+  },
+  {
+    "id": 82,
+    "arabic": "العَفُوّ",
+    "english": "Al-Afuww",
+    "french": "Le Tout-Pardonnant",
+    "explanation": "الذي يعفو عن الذنوب ويتجاوز عنها."
+  },
+  {
+    "id": 83,
+    "arabic": "الرَّؤُوف",
+    "english": "Ar-Ra'uf",
+    "french": "Le Très Compatissant",
+    "explanation": "الذي له الرحمة والرأفة بعباده."
+  },
+  {
+    "id": 84,
+    "arabic": "مَالِكُ المُلْك",
+    "english": "Malik-ul-Mulk",
+    "french": "Le Roi de la Royauté",
+    "explanation": "الذي يملك كل شيء ويتصرف فيه."
+  },
+  {
+    "id": 85,
+    "arabic": "ذُوالْجَلاَلِ وَالإكْرَام",
+    "english": "Dhul-Jalali wal-Ikram",
+    "french": "Le Détenteur de la majesté et de la générosité",
+    "explanation": "الذي له الجلال والعظمة والكرم."
+  },
+  {
+    "id": 86,
+    "arabic": "المُقْسِط",
+    "english": "Al-Muqsit",
+    "french": "Le Juste",
+    "explanation": "الذي يقيم العدل بين خلقه."
+  },
+  {
+    "id": 87,
+    "arabic": "الجَامِع",
+    "english": "Al-Jami'",
+    "french": "Celui qui réunit",
+    "explanation": "الذي يجمع الخلائق يوم القيامة."
+  },
+  {
+    "id": 88,
+    "arabic": "الغَني",
+    "english": "Al-Ghaniyy",
+    "french": "Le Riche",
+    "explanation": "الذي لا يحتاج إلى شيء وهو الغني بذاته."
+  },
+  {
+    "id": 89,
+    "arabic": "المُغْنِي",
+    "english": "Al-Mughni",
+    "french": "Celui qui enrichit",
+    "explanation": "الذي يغني من يشاء من عباده ويكفيهم حاجاتهم."
+  },
+  {
+    "id": 90,
+    "arabic": "المَانِع",
+    "english": "Al-Mani'",
+    "french": "Celui qui empêche",
+    "explanation": "الذي يمنع ما يشاء ويحفظ من يشاء."
+  },
+  {
+    "id": 91,
+    "arabic": "الضَّار",
+    "english": "Ad-Darr",
+    "french": "Celui qui peut nuire",
+    "explanation": "الذي يلحق الضرر بمن يشاء لحكمة."
+  },
+  {
+    "id": 92,
+    "arabic": "النَّافِع",
+    "english": "An-Nafi'",
+    "french": "Celui qui accorde le bénéfice",
+    "explanation": "الذي ينفع من يشاء من عباده."
+  },
+  {
+    "id": 93,
+    "arabic": "النُّور",
+    "english": "An-Nur",
+    "french": "La Lumière",
+    "explanation": "الذي ينير السماوات والأرض بنوره ويهدي به من يشاء."
+  },
+  {
+    "id": 94,
+    "arabic": "الهَادِي",
+    "english": "Al-Hadi",
+    "french": "Le Guide",
+    "explanation": "الذي يهدي خلقه إلى الحق والصراط المستقيم."
+  },
+  {
+    "id": 95,
+    "arabic": "البَدِيع",
+    "english": "Al-Badi'",
+    "french": "L'Incomparable",
+    "explanation": "الذي أبدع الخلق بلا مثال سابق."
+  },
+  {
+    "id": 96,
+    "arabic": "البَاقِي",
+    "english": "Al-Baqi",
+    "french": "Le Permanent",
+    "explanation": "الذي يبقى بعد فناء خلقه وهو الدائم الذي لا يتغير."
+  },
+  {
+    "id": 97,
+    "arabic": "الوَارِث",
+    "english": "Al-Warith",
+    "french": "L'Héritier",
+    "explanation": "الذي يرث الأرض ومن عليها بعد فنائهم."
+  },
+  {
+    "id": 98,
+    "arabic": "الرَّشِيد",
+    "english": "Ar-Rashid",
+    "french": "Le Sage",
+    "explanation": "الذي يرشد الخلائق إلى مصالحها بحكمته."
+  },
+  {
+    "id": 99,
+    "arabic": "الصَّبُور",
+    "english": "As-Sabur",
+    "french": "Le Très-Patient",
+    "explanation": "الذي لا يعجل على خلقه بالعقوبة ويمهلهم."
+  }
+]
